@@ -1,0 +1,8 @@
+{
+  "name": "Fluffly Table",
+  "description": "A nice Table to sit dine at",
+  "image": "https://img.alicdn.com/i4/740533721/TB2Wq.LcP3z9KJjy0FmXXXiwXXa_!!740533721.png_460x460q90.jpg",
+  "itemType": "ITEM_TABLE",
+  "price": "5",
+  "isPremium": false
+}
