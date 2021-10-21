@@ -1,8 +1,8 @@
 {
-  "name": "Plant",
-  "description": "A nice wooden plant to decorate",
+  "name": "Pizza",
+  "description": "Pizza",
   "image": "https://img.alicdn.com/i4/740533721/TB2Wq.LcP3z9KJjy0FmXXXiwXXa_!!740533721.png_460x460q90.jpg",
-  "itemType": "ITEM_DECOR",
-  "price": "5",
+  "itemType": 3,
+  "price": "4",
   "isPremium": false
 }
