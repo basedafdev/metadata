@@ -5,6 +5,7 @@
   "itemType": 2,
   "price": "5",
   "isPremium": false,
-  "unlockLevel": 100,
-  "deadline": 0
+  "unlockLevel": 0,
+  "deadline": "10000000",
+  "isExpired": false
 }
