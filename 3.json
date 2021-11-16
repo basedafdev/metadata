@@ -2,7 +2,9 @@
   "name": "Plant",
   "description": "A nice wooden plant to decorate",
   "image": "https://img.alicdn.com/i4/740533721/TB2Wq.LcP3z9KJjy0FmXXXiwXXa_!!740533721.png_460x460q90.jpg",
-  "itemType": 2,
+  "itemType": 0,
   "price": "5",
-  "isPremium": false
+  "isPremium": false,
+  "unlockLevel": 100,
+  "deadline": 0
 }

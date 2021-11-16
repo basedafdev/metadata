@@ -3,6 +3,8 @@
   "description": "A nice bush to decorate ",
   "image": "https://img.alicdn.com/i4/740533721/TB2Wq.LcP3z9KJjy0FmXXXiwXXa_!!740533721.png_460x460q90.jpg",
   "price": "5",
-  "itemType": 2,
-  "isPremium": false
+  "itemType": 0,
+  "isPremium": false,
+  "unlockLevel": 0,
+  "deadline": 100
 }

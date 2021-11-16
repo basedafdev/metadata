@@ -1,0 +1,12 @@
+{
+  "name": "4x4Grid",
+  "description": "Big enough for your first restaurant",
+  "image": "http://place-grid.jpeg.here",
+  "price": "5",
+  "itemType": 5,
+  "isPremium": false,
+  "unlockLevel": 0,
+  "deadline": 100,
+  "size": 16,
+  "maxStovesAllowed": 3
+}
