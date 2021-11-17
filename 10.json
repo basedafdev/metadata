@@ -1,9 +1,10 @@
 {
+  "id": 10,
   "name": "Stove",
   "description": "A hot stove to cook with",
   "image": "http://place-stove.jpeg.here",
-  "price": "5",
   "itemType": 3,
+  "price": "5",
   "isPremium": false,
   "unlockLevel": 0,
   "deadline": "10000000",

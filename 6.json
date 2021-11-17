@@ -1,9 +1,10 @@
 {
+  "id": 6,
   "name": "CushyChair",
   "description": "A nice cushy chair to sit on",
   "image": "https://img.alicdn.com/i4/740533721/TB2Wq.LcP3z9KJjy0FmXXXiwXXa_!!740533721.png_460x460q90.jpg",
-  "price": "3",
   "itemType": 2,
+  "price": "3",
   "isPremium": false,
   "unlockLevel": 0,
   "deadline": "10000000",
